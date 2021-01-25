@@ -6,7 +6,7 @@ port:                 # default 12580
 # source list file
 source-files:
   # use local file
-  - ./config/source.yaml
+  #- ./config/source.yaml
   # use web file
   - https://raw.githubusercontent.com/xhrzg2017/proxypool/master/config/source.yaml
 
