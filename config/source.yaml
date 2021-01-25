@@ -33,6 +33,12 @@
     url: https://proxypoolsstest.herokuapp.com/trojan/sub
 - type: subscribe
   options:
+    url: https://proxypoolss.tk/vmess/sub
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/trojan/sub
+- type: subscribe
+  options:
     url: https://raw.githubusercontent.com/xhrzg2017/xhrzg2017.github.io/master/tz
 - type: subscribe
   options:
