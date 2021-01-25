@@ -12,18 +12,22 @@
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/foursquare961/1.23/main/v2ray
+    url: https://jiang.netlify.app
 - type: subscribe
   options:
     url: https://www.hggygdr66.tk/vmess/sub
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/xhrzg2017/xhrzg2017.github.io/master/tz  
+    url: https://raw.githubusercontent.com/xhrzg2017/xhrzg2017.github.io/master/tz
+#随时下线
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/foursquare961/1.23/main/v2ray
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/krsipig/1.25.2/main/README.md
 
 # 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://merlinblog.xyz/wiki/freess.html
 - type: webfuzz
   options:
     url: https://lisondawang.tk/jiedianfenxiang.html
