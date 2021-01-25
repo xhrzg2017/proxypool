@@ -18,6 +18,11 @@
   options:
     url: https://raw.githubusercontent.com/foursquare961/1.23/main/v2ray
     
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://proxypoolsstest.herokuapp.com/vmess/sub  
+    
  # 订阅链接
 - type: subscribe
   options:
