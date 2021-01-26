@@ -137,6 +137,7 @@
 # clash格式订阅链接
 - type: clash
   options:
+  url:https://www.hggygdr66.tk/clash/proxies?c=HK,TW,US&nc=JP&type=vmess,trojan
     
 # 某个网站抓取
 - type: web-freessrxyz
