@@ -145,9 +145,6 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://api.dler.io/sub?target=clash&new_name=true&url=https://jiang.netlify.app&insert=false&config=https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini
-- type: clash
-  options:
     url: https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https://raw.githubusercontent.com/krsipig/1.24.3/main/README.md&insert=false&config=https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini
 
 # 某个网站抓取
