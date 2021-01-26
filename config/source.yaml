@@ -51,6 +51,12 @@
     url: https://proxypoolss.tk/trojan/sub
 - type: subscribe
   options:
+    url: https://bihai.cf/vmess/sub
+- type: subscribe
+  options:
+    url: https://bihai.cf/trojan/sub    
+- type: subscribe
+  options:
     url: https://raw.githubusercontent.com/xhrzg2017/xhrzg2017.github.io/master/tz
 - type: subscribe
   options:
