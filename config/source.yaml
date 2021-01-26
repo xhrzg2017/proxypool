@@ -43,14 +43,6 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
-#随时下线
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/foursquare961/1.23/main/v2ray
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/krsipig/1.25.2/main/README.md
-
 
 # 网页模糊抓取
 - type: webfuzz
