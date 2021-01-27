@@ -43,6 +43,10 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
+#工具大师i
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/foursquare961/1.23/main/v2ray
 
 # 网页模糊抓取
 - type: webfuzz
