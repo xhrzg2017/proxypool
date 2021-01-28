@@ -47,6 +47,10 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/foursquare961/1.23/main/v2ray
+#晓柒科技
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/krsipig/01281/main/README.md
 
 # 网页模糊抓取
 - type: webfuzz
