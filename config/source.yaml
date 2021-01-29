@@ -50,7 +50,7 @@
 #晓柒科技
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/krsipig/01281/main/README.md
+    url: https://raw.githubusercontent.com/krsipig/0129.1/main/README.md
 
 # 网页模糊抓取
 - type: webfuzz
