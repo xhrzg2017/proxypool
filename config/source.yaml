@@ -43,6 +43,9 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
+- type: subscribe
+  options:
+    url: https://chexlo.tryuhu235.tk/vmess/sub
 #工具大师i
 - type: subscribe
   options:
