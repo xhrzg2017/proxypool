@@ -46,6 +46,10 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
+# 公共机场
+- type: subscribe
+  options:
+    url: https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3QvcyFBakdEc3oydC1PRFJnZ2tnMXBRTXRkbmpqZE00P2U9SzhkNjd5  
 #工具大师i
 - type: subscribe
   options:
