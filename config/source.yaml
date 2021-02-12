@@ -53,11 +53,11 @@
 #工具大师i
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/foursquare961/1.23/main/v2ray
+    url: https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3QvcyFBakdEc3oydC1PRFJnZ3Npank1MjMtQ0p4dWduP2U9eUlhb0ZW
 #晓柒科技
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/krsipig/02.02/main/README.md
+    url: https://raw.githubusercontent.com/krsipig/02.10/main/README.md
 
 # 网页模糊抓取
 - type: webfuzz
