@@ -141,7 +141,9 @@
 - type: clash
   options:
     url: https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https://bihai.cf/clash/proxies?type=vmess,trojan&?speed=15&insert=false&config=https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini    
-
+- type: clash
+  options:
+    url: https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https://proxypool.ednovas.xyz/clash/proxies?speed=15&type=trojan,vmess&insert=false&config=https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini
 # 某个网站抓取
 - type: web-freessrxyz
   options:
