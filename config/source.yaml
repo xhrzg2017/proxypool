@@ -15,9 +15,6 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://dypool.herokuapp.com/vmess/sub
-- type: subscribe
-  options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 - type: subscribe
   options:
@@ -137,13 +134,7 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https://proxypoolsstest.herokuapp.com/clash/proxies?type=vmess,trojan&?speed=15&insert=false&config=https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini
-- type: clash
-  options:
-    url: https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https://bihai.cf/clash/proxies?type=vmess,trojan&?speed=15&insert=false&config=https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini    
-- type: clash
-  options:
-    url: https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https://proxypool.ednovas.xyz/clash/proxies?speed=15&type=trojan,vmess&insert=false&config=https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini
+    url:https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fwww.233660.xyz%2Fclash%2Fproxies%3Fspeed%3D15%2C999%26type%3Dvmess%2Ctrojane%26new_name%3Dtrue&insert=false&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true
 # 某个网站抓取
 - type: web-freessrxyz
   options:
