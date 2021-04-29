@@ -32,6 +32,10 @@
 - type: subscribe
   options:
     url: https://fforever.github.io/v2rayfree 
+#工具大师i    
+- type: subscribe
+  options:
+    url:  http://120.92.132.166:8888/down/gODuoEzQAhcf    
 
 # 网页模糊抓取
 - type: webfuzz
