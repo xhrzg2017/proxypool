@@ -11,15 +11,7 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/freefq/free/master/v2
-- type: subscribe
-  options:
-    url: https://jiang.netlify.app    
-- type: subscribe
-  options:
-    url: https://iwxf.netlify.app   
-- type: subscribe
-  options:
-    url: https://youlianboshi.netlify.com
+
     
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
