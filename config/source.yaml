@@ -34,7 +34,10 @@
     url: https://fforever.github.io/v2rayfree 
 - type: subscribe
   options:
-    url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb   
+    url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/vmess/sub 
 #工具大师i    
 - type: subscribe
   options:
