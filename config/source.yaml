@@ -33,6 +33,9 @@
     url: https://iwxf.netlify.app   
 - type: subscribe
   options:
+    url: https://youlianboshi.netlify.com
+- type: subscribe
+  options:
     url: https://raw.githubusercontent.com/xhrzg2017/xhrzg2017.github.io/master/tz
 - type: subscribe
   options:
@@ -53,9 +56,6 @@
     url: https://raw.githubusercontent.com/krsipig/02.10/main/README.md
 
 # 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://lisondawang.tk/jiedianfenxiang.html
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/freefq/free/master/README.md
