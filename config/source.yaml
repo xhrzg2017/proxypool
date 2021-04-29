@@ -32,10 +32,17 @@
 - type: subscribe
   options:
     url: https://fforever.github.io/v2rayfree 
+- type: subscribe
+  options:
+    url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb   
 #工具大师i    
 - type: subscribe
   options:
-    url:  http://120.92.132.166:8888/down/gODuoEzQAhcf    
+    url:  http://120.92.132.166:8888/down/gODuoEzQAhcf  
+#4.22
+- type: subscribe
+  options:
+    url:  https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-4-26
 
 # 网页模糊抓取
 - type: webfuzz
