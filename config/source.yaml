@@ -1,13 +1,25 @@
-# 模糊抓取订阅链接
-- type: webfuzzsub
+# clash格式订阅链接
+- type: clash
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/sub.list
-- type: webfuzzsub
+    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+- type: clash
   options:
-    url: https://github.com/pojiezhiyuanjun/freev2
-- type: webfuzzsub
+    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/clash.yaml 
+- type: clash
   options:
-    url: https://github.com/JACKUSR2089/v2ray-subscribed
-- type: webfuzzsub
+    url: https://www.233660.xyz/clash/proxies?type=vmess,trojan&new_name=true&speed=15 
+- type: clash
   options:
-   url: http://d.zaix.ru/ntiL.txt
+    url: https://etproxypool.ga/clash/proxies?type=vmess,trojan&new_name=true&speed=15   
+- type: clash
+  options:
+    url: https://fq.lonxin.net/clash/proxies?type=vmess,trojan&new_name=true&speed=15   
+- type: clash
+  options:
+    url: https://sspool.nl/clash/proxies?type=vmess,trojan&new_name=true&speed=15   
+- type: clash
+  options:
+    url: https://freemby.tk/clash/proxies?type=vmess,trojan&new_name=true&speed=15       
+- type: clash
+  options:
+    url: https://proxypool-guest997.herokuapp.com/clash/proxies?type=vmess,trojan&new_name=true&speed=15   
