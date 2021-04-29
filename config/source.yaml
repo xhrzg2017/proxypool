@@ -20,6 +20,23 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md    
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/README.md
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/hugetiny/awesome-vpn/master/READMECN.md
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/README.md
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/iwxf/free-v2ray/master/README.md
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/README.md
     
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
