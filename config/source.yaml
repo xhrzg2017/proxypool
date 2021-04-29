@@ -13,15 +13,6 @@
     url: https://raw.githubusercontent.com/freefq/free/master/v2
 - type: subscribe
   options:
-    url: https://jiang.netlify.app    
-- type: subscribe
-  options:
-    url: https://iwxf.netlify.app   
-- type: subscribe
-  options:
-    url: https://youlianboshi.netlify.com
-- type: subscribe
-  options:
     url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md
 - type: subscribe
   options:
