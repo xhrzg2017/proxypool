@@ -1,16 +1,13 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+    url: https://jiang.netlify.app    
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan 
+    url: https://iwxf.netlify.app   
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/freefq/free/master/ssr
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/freefq/free/master/v2
+    url: https://youlianboshi.netlify.com
 
     
 # 翻墙党论坛抓取
