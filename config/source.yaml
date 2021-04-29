@@ -43,6 +43,10 @@
 - type: subscribe
   options:
     url:  https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-4-26
+#不良林
+- type: subscribe
+  options:
+    url: https://buliang0.tk/tool/freeproxy/04-29/36
 
 # 网页模糊抓取
 - type: webfuzz
