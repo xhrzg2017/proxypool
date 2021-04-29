@@ -2,6 +2,15 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan 
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/ssr
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/v2
     
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
