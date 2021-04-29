@@ -1,3 +1,17 @@
+# 模糊抓取订阅链接
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/du5/free/master/sub.list
+- type: webfuzzsub
+  options:
+    url: https://github.com/pojiezhiyuanjun/freev2
+- type: webfuzzsub
+  options:
+    url: https://github.com/JACKUSR2089/v2ray-subscribed
+- type: webfuzzsub
+  options:
+   url: http://d.zaix.ru/ntiL.txt
+   
 # 订阅链接
 - type: subscribe
   options:
@@ -20,6 +34,9 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md    
+- type: subscribe
+  options:
+    url: https://linn.ink/api/v1/client/subscribe?token=dd4d86b299e1001744b82ed665b4fa6b       
 
 # 网页模糊抓取
 - type: webfuzz
