@@ -1,13 +1,7 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://jiang.netlify.app    
-- type: subscribe
-  options:
-    url: https://iwxf.netlify.app   
-- type: subscribe
-  options:
-    url: https://youlianboshi.netlify.com
+    url: https://jiang.netlify.app  
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
