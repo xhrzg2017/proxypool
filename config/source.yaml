@@ -35,9 +35,21 @@
 - type: subscribe
   options:
     url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
+#同行    
 - type: subscribe
   options:
     url: https://free.kingfu.cf/vmess/sub 
+- type: subscribe
+  options:
+    url: http://8.136.5.236/vmess/sub
+- type: subscribe
+  options:
+    url: https://6166888.xyz/vmess/sub
+- type: subscribe
+  options:
+    url: https://fq.lonxin.net/vmess/sub    
+    
+    
 #工具大师i    
 - type: subscribe
   options:
@@ -84,7 +96,10 @@
     url: https://www.233660.xyz/clash/proxies?type=vmess,trojan&new_name=true&speed=15 
 - type: clash
   options:
-    url: https://etproxypool.ga/clash/proxies?type=vmess,trojan&new_name=true&speed=15   
+    url: https://etproxypool.ga/clash/proxies?type=vmess,trojan&new_name=true&speed=15
+- type: clash
+  options:
+    url: https://clashpool.ml/clash/proxies?type=vmess,trojan&new_name=true&speed=15       
 - type: clash
   options:
     url: https://fq.lonxin.net/clash/proxies?type=vmess,trojan&new_name=true&speed=15   
