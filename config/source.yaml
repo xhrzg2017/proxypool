@@ -63,7 +63,9 @@
 - type: subscribe
   options:
     url: https://proxy.51798.xyz/vmess/sub      
-    
+- type: subscribe
+  options:
+    url: 	https://free.kingfu.cf/vmess/sub      
         
 #工具大师i    
 - type: subscribe
