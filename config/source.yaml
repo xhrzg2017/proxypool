@@ -47,13 +47,29 @@
     url: https://6166888.xyz/vmess/sub
 - type: subscribe
   options:
-    url: https://fq.lonxin.net/vmess/sub    
+    url: https://fq.lonxin.net/vmess/sub   
+- type: subscribe
+  options:
+    url: https://freemby.tk/vmess/sub   
+- type: subscribe
+  options:
+    url: https://sspool.nl/vmess/sub
+  - type: subscribe
+  options:
+    url: https://www.233660.xyz/vmess/sub 
+- type: subscribe
+  options:
+    url: https://etproxypool.ga/vmess/sub
+- type: subscribe
+  options:
+    url: https://proxy.51798.xyz/vmess/sub      
     
-    
+        
 #工具大师i    
 - type: subscribe
   options:
     url:  http://120.92.132.166:8888/down/gODuoEzQAhcf  
+
 #4.22
 - type: subscribe
   options:
@@ -90,25 +106,7 @@
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/clash.yaml 
-- type: clash
-  options:
-    url: https://www.233660.xyz/clash/proxies?type=vmess,trojan&new_name=true&speed=15 
-- type: clash
-  options:
-    url: https://etproxypool.ga/clash/proxies?type=vmess,trojan&new_name=true&speed=15
-- type: clash
-  options:
-    url: https://clashpool.ml/clash/proxies?type=vmess,trojan&new_name=true&speed=15       
-- type: clash
-  options:
-    url: https://fq.lonxin.net/clash/proxies?type=vmess,trojan&new_name=true&speed=15   
-- type: clash
-  options:
-    url: https://sspool.nl/clash/proxies?type=vmess,trojan&new_name=true&speed=15   
-- type: clash
-  options:
-    url: https://freemby.tk/clash/proxies?type=vmess,trojan&new_name=true&speed=15       
+    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/clash.yaml   
 - type: clash
   options:
     url: https://proxypool-guest997.herokuapp.com/clash/proxies?type=vmess,trojan&new_name=true&speed=15   
