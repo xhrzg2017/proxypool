@@ -54,7 +54,7 @@
 - type: subscribe
   options:
     url: https://sspool.nl/vmess/sub
-  - type: subscribe
+- type: subscribe
   options:
     url: https://www.233660.xyz/vmess/sub 
 - type: subscribe
