@@ -38,7 +38,7 @@
 #同行    
 - type: subscribe
   options:
-    url: https://free.kingfu.cf/vmess/sub 
+    url: https://free.kingfu.cf/vmess/sub
 - type: subscribe
   options:
     url: http://8.136.5.236/vmess/sub
@@ -47,32 +47,60 @@
     url: https://6166888.xyz/vmess/sub
 - type: subscribe
   options:
-    url: https://fq.lonxin.net/vmess/sub   
+    url: https://fq.lonxin.net/vmess/sub 
 - type: subscribe
   options:
-    url: https://freemby.tk/vmess/sub   
+    url: https://freemby.tk/vmess/sub  
 - type: subscribe
   options:
     url: https://sspool.nl/vmess/sub
 - type: subscribe
   options:
-    url: https://www.233660.xyz/vmess/sub 
+    url: https://www.233660.xyz/vmess/sub
 - type: subscribe
   options:
     url: https://etproxypool.ga/vmess/sub
 - type: subscribe
   options:
-    url: https://proxy.51798.xyz/vmess/sub      
+    url: https://proxy.51798.xyz/vmess/sub   
 - type: subscribe
   options:
-    url: 	https://free.kingfu.cf/vmess/sub      
+    url: 	https://free.kingfu.cf/vmess/sub
+- type: subscribe
+  options:
+    url: 	https://proxypool-guest997.herokuapp.com/vmess/sub
+- type: subscribe
+  options:
+    url: https://free.mengbai.cf/vmess/sub
+- type: subscribe
+  options:
+    url: https://hm2019721.ml/vmess/sub
+- type: subscribe
+  options:
+    url: https://proxy.51798.xyz/vmess/sub
+- type: subscribe
+  options:
+    url: https://proxy.purel.in/vmess/sub
+- type: subscribe
+  options:
+    url: https://proxypool.fly.dev/vmess/sub
+- type: subscribe
+  options:
+    url: https://proxypoolv2.tk/vmess/sub
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/vmess/sub
+- type: subscribe
+  options:
+    url: https://www.linbaoz.com/vmess/sub  
+
         
 #工具大师i    
 - type: subscribe
   options:
     url:  http://120.92.132.166:8888/down/gODuoEzQAhcf  
 
-#4.22
+#4.26
 - type: subscribe
   options:
     url:  https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-4-26
@@ -109,6 +137,3 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/clash.yaml   
-- type: clash
-  options:
-    url: https://proxypool-guest997.herokuapp.com/clash/proxies?type=vmess,trojan&new_name=true&speed=15   
