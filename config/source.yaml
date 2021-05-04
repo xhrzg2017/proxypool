@@ -93,8 +93,7 @@
 - type: subscribe
   options:
     url: https://www.linbaoz.com/vmess/sub  
-
-        
+       
 #工具大师i    
 - type: subscribe
   options:
@@ -133,7 +132,7 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+    url: https://raw.githubusercontent.com/du5/free/master/file/0503/clash.yaml
 - type: clash
   options:
     url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/clash.yaml   
