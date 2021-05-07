@@ -25,13 +25,7 @@
     url: https://linn.ink/api/v1/client/subscribe?token=dd4d86b299e1001744b82ed665b4fa6b       
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub 
-- type: subscribe
-  options:
     url: https://fuckwan73.tk  
-- type: subscribe
-  options:
-    url: https://fforever.github.io/v2rayfree 
 - type: subscribe
   options:
     url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
@@ -105,11 +99,11 @@
 #4.26
 - type: subscribe
   options:
-    url:  https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-4-26
+    url:  https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-5-8
 #不良林
 - type: subscribe
   options:
-    url: https://buliang0.tk/tool/freeproxy/04-29/36
+    url: https://buliang0.tk/tool/freeproxy/05-01/36
 
 # 网页模糊抓取
 - type: webfuzz
@@ -138,4 +132,7 @@
     url: https://raw.githubusercontent.com/du5/free/master/file/0503/clash.yaml
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/clash.yaml   
+    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/clash.yaml
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
