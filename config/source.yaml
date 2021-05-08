@@ -59,10 +59,10 @@
     url: https://proxy.51798.xyz/vmess/sub   
 - type: subscribe
   options:
-    url: 	https://free.kingfu.cf/vmess/sub
+    url: https://free.kingfu.cf/vmess/sub
 - type: subscribe
   options:
-    url: 	https://proxypool-guest997.herokuapp.com/vmess/sub
+    url: https://proxypool-guest997.herokuapp.com/vmess/sub
 - type: subscribe
   options:
     url: https://free.mengbai.cf/vmess/sub
