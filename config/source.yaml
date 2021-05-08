@@ -90,16 +90,19 @@
 - type: subscribe
   options:
     url: https://emby.luoml.eu.org/vmess/sub  
+- type: subscribe
+  options:
+    url: https://hm2019721.ml/vmess/sub      
        
 #工具大师i    
 - type: subscribe
   options:
-    url:  http://120.92.132.166:8888/down/gODuoEzQAhcf  
+    url: http://120.92.132.166:8888/down/gODuoEzQAhcf  
 
 #4.26
 - type: subscribe
   options:
-    url:  https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-5-8
+    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-5-8
 #不良林
 - type: subscribe
   options:
