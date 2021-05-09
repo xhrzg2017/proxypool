@@ -97,11 +97,11 @@
 #工具大师i    
 - type: subscribe
   options:
-    url: http://120.92.132.166:8888/down/gODuoEzQAhcf   
+    url: http://120.92.132.166:8888/down/ecafFaSfovkG 
 #晓柒科技
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/krsipig/2021.05.08/main/README.md
+    url: https://raw.githubusercontent.com/krsipig/2021.05.09/main/README.md
 #科技lion
 - type: subscribe
   options:
