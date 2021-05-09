@@ -102,14 +102,18 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/krsipig/2021.05.08/main/README.md
-#4.26
+#科技lion
+- type: subscribe
+  options:
+    url: tent.com/lion12776/kejilion/main/ss_v2ray_winxray
+#JACKUSR2089
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-5-8
 #不良林
 - type: subscribe
   options:
-    url: https://buliang0.tk/tool/freeproxy/05-01/36
+    url: https://buliang0.tk/tool/freeproxy/05-09/37
 
 # 网页模糊抓取
 - type: webfuzz
