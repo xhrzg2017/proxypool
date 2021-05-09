@@ -89,10 +89,7 @@
     url: https://www.linbaoz.com/vmess/sub  
 - type: subscribe
   options:
-    url: https://emby.luoml.eu.org/vmess/sub  
-- type: subscribe
-  options:
-    url: https://hm2019721.ml/vmess/sub      
+    url: https://emby.luoml.eu.org/vmess/sub   
        
 #工具大师i    
 - type: subscribe
