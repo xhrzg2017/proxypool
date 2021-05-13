@@ -128,6 +128,9 @@
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/freefq/free/master/README.md
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etsub.list 
     
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
