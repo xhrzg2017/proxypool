@@ -128,7 +128,9 @@
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/freefq/free/master/README.md
-- type: webfuzz
+    
+# 模糊抓取订阅链接
+- type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etsub.list 
     
