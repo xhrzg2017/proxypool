@@ -132,7 +132,13 @@
 # 模糊抓取订阅链接
 - type: webfuzzsub
   options:
-    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etsub.list 
+    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etsub.list
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etproxypool.list
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/du5/free/master/sub.list    
     
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
