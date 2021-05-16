@@ -111,6 +111,11 @@
 - type: subscribe
   options:
     url: https://buliang0.tk/tool/freeproxy/05-09/37
+#猿小札
+- type: subscribe
+  options:
+    url: ercontent.com/yuanxiaozha/proxy-node/master/lastest.yaml
+
 
 # 网页模糊抓取
 - type: webfuzz
