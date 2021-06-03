@@ -29,6 +29,11 @@
 - type: subscribe
   options:
     url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
+ #gcp   
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/thanks-ben-gcp
+    
 #同行    
 - type: subscribe
   options:
@@ -95,10 +100,6 @@
 - type: subscribe
   options:
     url: http://120.92.132.166:8888/down/ecafFaSfovkG 
-#晓柒科技
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/krsipig/2021.05.09/main/README.md
 #科技lion
 - type: subscribe
   options:
@@ -106,11 +107,7 @@
 #JACKUSR2089
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-5-12
-#不良林
-- type: subscribe
-  options:
-    url: https://buliang0.tk/tool/freeproxy/05-09/37
+    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-5-29
 #猿小札
 - type: subscribe
   options:
