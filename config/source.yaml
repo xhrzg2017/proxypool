@@ -29,10 +29,15 @@
 - type: subscribe
   options:
     url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
- #gcp   
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/thanks-ben-gcp
+    url: https://iwxf.netlify.app/
+- type: subscribe
+  options:
+    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clash.yaml
+- type: subscribe
+  options:
+    url: https://gitea.com/proxypools/sub/raw/branch/main/ss/ss.txt    
     
 #同行    
 - type: subscribe
@@ -95,24 +100,23 @@
 - type: subscribe
   options:
     url: https://emby.luoml.eu.org/vmess/sub   
-       
+
 #工具大师i    
 - type: subscribe
   options:
-    url: http://120.92.132.166:8888/down/ecafFaSfovkG 
+    url: http://120.92.132.166:8888/down/5wWuSDUvCXzJ 
 #科技lion
 - type: subscribe
   options:
-    url: tent.com/lion12776/kejilion/main/ss_v2ray_winxray
+    url: https://raw.githubusercontent.com/lion12776/kejilion/main/ss_v2ray_winxray
 #JACKUSR2089
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-5-29
-#猿小札
+    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-6-13
+#晓柒科技    
 - type: subscribe
   options:
-    url: ercontent.com/yuanxiaozha/proxy-node/master/lastest.yaml
-
+    url: https://a.xiaoqikeji-youtube.tk/api/v1/client/subscribe?token=3927db74000340ae248c18cf4dcece64
 
 # 网页模糊抓取
 - type: webfuzz
