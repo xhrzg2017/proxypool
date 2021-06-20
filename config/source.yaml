@@ -120,7 +120,11 @@
 #逍遥观世界   
 - type: subscribe
   options:
-    url: https://yun.xiaoyao01.com/dingyue/1fenxiang.txt   
+    url: https://yun.xiaoyao01.com/dingyue/1fenxiang.txt
+#阿伟科技  
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ggborr/aweikeji/main/6.20   
 
 # 网页模糊抓取
 - type: webfuzz
