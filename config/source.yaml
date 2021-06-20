@@ -117,6 +117,10 @@
 - type: subscribe
   options:
     url: https://a.xiaoqikeji-youtube.tk/api/v1/client/subscribe?token=3927db74000340ae248c18cf4dcece64
+#逍遥观世界   
+- type: subscribe
+  options:
+    url: https://yun.xiaoyao01.com/dingyue/1fenxiang.txt   
 
 # 网页模糊抓取
 - type: webfuzz
