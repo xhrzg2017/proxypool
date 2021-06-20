@@ -31,7 +31,7 @@
     url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
 - type: subscribe
   options:
-    url: https://iwxf.netlify.app/
+    url: https://iwxf.netlify.app
 - type: subscribe
   options:
     url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clash.yaml
