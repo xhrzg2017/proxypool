@@ -32,12 +32,6 @@
 - type: subscribe
   options:
     url: https://iwxf.netlify.app
-- type: subscribe
-  options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clash.yaml
-- type: subscribe
-  options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/ss/ss.txt    
     
 #同行    
 - type: subscribe
@@ -124,7 +118,7 @@
 #阿伟科技  
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ggborr/aweikeji/main/6.20   
+    url: https://raw.githubusercontent.com/ggborr/aweikeji/main/6.22   
 
 # 网页模糊抓取
 - type: webfuzz
@@ -168,3 +162,6 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
+- type: clash
+  options:
+    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clash.yaml
