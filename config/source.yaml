@@ -32,6 +32,9 @@
 - type: subscribe
   options:
     url: https://iwxf.netlify.app
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/Fox04117/dingyue/main/dingy.txt   
     
 #同行    
 - type: subscribe
