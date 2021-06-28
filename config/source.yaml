@@ -117,6 +117,10 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ggborr/aweikeji/main/6.24
+#晓柒科技
+- type: subscribe
+  options:
+    url: https://a.xiaoqikeji-youtube.tk/api/v1/client/subscribe?token=2b8443ee90b5019eded19f13b1fb0eba   
 
 # 网页模糊抓取
 - type: webfuzz
