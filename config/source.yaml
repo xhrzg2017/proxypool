@@ -96,7 +96,10 @@
     url: https://www.linbaoz.com/vmess/sub  
 - type: subscribe
   options:
-    url: https://emby.luoml.eu.org/vmess/sub   
+    url: https://emby.luoml.eu.org/vmess/sub
+- type: subscribe
+  options:
+    url: https://proxypool.ednovas.xyz/vmess/sub   
 
 #科技lion
 - type: subscribe
