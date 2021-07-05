@@ -108,7 +108,7 @@
 #JACKUSR2089
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-6-20
+    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-7-3
 #逍遥观世界   
 - type: subscribe
   options:
@@ -116,11 +116,15 @@
 #阿伟科技  
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ggborr/aweikeji/main/6.24
+    url: https://raw.githubusercontent.com/ggborr/aweikeji/main/7.3
 #晓柒科技
 - type: subscribe
   options:
-    url: https://a.xiaoqikeji-youtube.tk/api/v1/client/subscribe?token=2b8443ee90b5019eded19f13b1fb0eba   
+    url: https://a.xiaoqikeji-youtube.tk/api/v1/client/subscribe?token=2b8443ee90b5019eded19f13b1fb0eba
+#工具大师
+- type: subscribe
+  options:
+    url:  http://120.92.132.166:8888/down/s18ZGtTXcpya  
 
 # 网页模糊抓取
 - type: webfuzz
