@@ -22,16 +22,7 @@
     url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md    
 - type: subscribe
   options:
-    url: https://linn.ink/api/v1/client/subscribe?token=dd4d86b299e1001744b82ed665b4fa6b       
-- type: subscribe
-  options:
-    url: https://fuckwan73.tk  
-- type: subscribe
-  options:
-    url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
-- type: subscribe
-  options:
-    url: https://iwxf.netlify.app
+    url: https://linn.ink/api/v1/client/subscribe?token=dd4d86b299e1001744b82ed665b4fa6b
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/Fox04117/dingyue/main/dingy.txt   
@@ -165,6 +156,3 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
-- type: clash
-  options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clash.yaml
