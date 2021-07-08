@@ -27,67 +27,43 @@
 #同行    
 - type: subscribe
   options:
-    url: https://free.kingfu.cf/vmess/sub
+    url: https://free.kingfu.cf/clash/proxies
 - type: subscribe
   options:
-    url: http://8.136.5.236/vmess/sub
+    url: http://8.136.5.236/clash/proxies
 - type: subscribe
   options:
-    url: https://6166888.xyz/vmess/sub
+    url: https://fq.lonxin.net/clash/proxies
 - type: subscribe
   options:
-    url: https://fq.lonxin.net/vmess/sub 
+    url: https://sspool.nl/clash/proxies
 - type: subscribe
   options:
-    url: https://freemby.tk/vmess/sub  
+    url: https://etproxypool.ga/clash/proxies
 - type: subscribe
   options:
-    url: https://sspool.nl/vmess/sub
+    url: https://free.kingfu.cf/clash/proxies
 - type: subscribe
   options:
-    url: https://www.233660.xyz/vmess/sub
+    url: https://proxypool-guest997.herokuapp.com/clash/proxies
 - type: subscribe
   options:
-    url: https://etproxypool.ga/vmess/sub
+    url: https://free.mengbai.cf/clash/proxies
 - type: subscribe
   options:
-    url: https://proxy.51798.xyz/vmess/sub   
+    url: https://hm2019721.ml/clash/proxies
 - type: subscribe
   options:
-    url: https://free.kingfu.cf/vmess/sub
+    url: https://proxypool.fly.dev/clash/proxies
 - type: subscribe
   options:
-    url: https://proxypool-guest997.herokuapp.com/vmess/sub
+    url: https://sspool.herokuapp.com/clash/proxies
 - type: subscribe
   options:
-    url: https://free.mengbai.cf/vmess/sub
+    url: https://emby.luoml.eu.org/clash/proxies
 - type: subscribe
   options:
-    url: https://hm2019721.ml/vmess/sub
-- type: subscribe
-  options:
-    url: https://proxy.51798.xyz/vmess/sub
-- type: subscribe
-  options:
-    url: https://proxy.purel.in/vmess/sub
-- type: subscribe
-  options:
-    url: https://proxypool.fly.dev/vmess/sub
-- type: subscribe
-  options:
-    url: https://proxypoolv2.tk/vmess/sub
-- type: subscribe
-  options:
-    url: https://sspool.herokuapp.com/vmess/sub
-- type: subscribe
-  options:
-    url: https://www.linbaoz.com/vmess/sub  
-- type: subscribe
-  options:
-    url: https://emby.luoml.eu.org/vmess/sub
-- type: subscribe
-  options:
-    url: https://proxypool.ednovas.xyz/vmess/sub   
+    url: https://proxypool.ednovas.xyz/clash/proxies   
 
 #科技lion
 - type: subscribe
