@@ -1,0 +1,157 @@
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan 
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/ssr
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/v2    
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md    
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/Fox04117/dingyue/main/dingy.txt
+- type: subscribe
+  options:
+    url: https://cdn.jsdelivr.net/gh/MiDnight-coming/ss@main/README.md
+- type: subscribe
+  options:
+    url: https://cdn.jsdelivr.net/gh/MiDnight-coming/vmess@main/README.md   
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/xhrzg2017/xhrzg2017.github.io/master/tz
+
+    
+#同行 
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/clash/proxies?type=ss,vmess,trojan&speed=5
+- type: subscribe
+  options:
+    url: https://proxypool-guest997.herokuapp.com/clash/proxies?type=ss,vmess,trojan&speed=5
+- type: subscribe
+  options:
+    url: https://free.mengbai.cf/clash/proxies?type=ss,vmess,trojan&speed=5
+- type: subscribe
+  options:
+    url: https://www.233660.xyz/clash/proxies?type=ss,vmess,trojan&speed=5
+- type: subscribe
+  options:
+    url: https://sspool.nl/clash/proxies?type=ss,vmess,trojan&speed=5
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/clash/proxies?type=ss,vmess,trojan&speed=5  
+    
+#无测速    
+- type: subscribe
+  options:
+    url: https://emby.luoml.eu.org/clash/proxies?type=ss,vmess,trojan
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/clash/proxies?type=ss,vmess,trojan    
+- type: subscribe
+  options:
+    url: https://etproxypool.ga/clash/proxies?type=ss,vmess,trojan
+- type: subscribe
+  options:
+    url: https://etproxypool.cf/clash/proxies?type=ss,vmess,trojan
+
+#晓柒科技
+- type: subscribe
+  options:
+    url: https://v2b.xiaoqi66.cf//api/v1/client/subscribe?token=26d3f5684c8e4565eed04cbe6ed2274e
+#JACKUSR2089
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-7-9
+#逍遥观世界   
+- type: subscribe
+  options:
+    url: https://yun.xiaoyao01.com/dingyue/1fenxiang.txt
+#阿伟科技  
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ggborr/aweikeji/main/7.9
+#工具大师
+- type: subscribe
+  options:
+    url: http://1.15.119.250:8888/down/dEeW5dPbcGFP
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/README.md
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/hugetiny/awesome-vpn/master/READMECN.md
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/README.md
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/iwxf/free-v2ray/master/README.md
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/README.md
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/xhrzg2017/xhrzg2017.github.io/master/v2.md   
+- type: webfuzz
+  options:
+    url: https://merlinblog.xyz/wiki/freess.html  
+    
+# 模糊抓取订阅链接
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etsub.list
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/du5/free/master/sub.list   
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etproxytest
+    
+      
+# 翻墙党论坛抓取
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum-48-1.html
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/clash.yaml
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/clash.yml
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0719clash.yml
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/xhrzg2017/xhrzg2017.github.io/master/tz.yaml
