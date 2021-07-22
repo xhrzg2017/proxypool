@@ -75,7 +75,7 @@
 #晓柒科技
 - type: subscribe
   options:
-    url: https://v2b.xiaoqi66.cf//api/v1/client/subscribe?token=26d3f5684c8e4565eed04cbe6ed2274e
+    url: https://v2b.xiaoqi66.cf/api/v1/client/subscribe?token=30626ca78eacf82c047e82cdcb4c0f65
 #JACKUSR2089
 - type: subscribe
   options:
