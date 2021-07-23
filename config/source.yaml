@@ -123,9 +123,7 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list   
-- type: webfuzzsub
-  options:
-    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etproxytest
+
     
 
       
@@ -152,7 +150,4 @@
     url: https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0721clash.yml
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/xhrzg2017/xhrzg2017.github.io/master/tz.yaml
+    url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0722clash.yml
