@@ -148,6 +148,4 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0722clash.yml
+
