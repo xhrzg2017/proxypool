@@ -91,7 +91,7 @@
 #工具大师
 - type: subscribe
   options:
-    url: http://1.15.119.250:8888/down/dEeW5dPbcGFP
+    url: http://1.15.119.250:8888/down/2PGF5R1oAbpY
 
 # 网页模糊抓取
 - type: webfuzz
