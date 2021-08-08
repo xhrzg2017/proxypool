@@ -75,19 +75,15 @@
 #晓柒科技
 - type: subscribe
   options:
-    url: https://v2b.xiaoqi66.cf/api/v1/client/subscribe?token=6e9981671fe6145bb3d9adaf4cf6c68f
+    url: https://v2b.xiaoqi66.cf//api/v1/client/subscribe?token=67898b7fe772f200735edbd7972b6543
 #JACKUSR2089
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-7-9
+    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-7-28
 #逍遥观世界   
 - type: subscribe
   options:
     url: https://yun.xiaoyao01.com/dingyue/1fenxiang.txt
-#阿伟科技  
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/ggborr/aweikeji/main/7.9
 #工具大师
 - type: subscribe
   options:
@@ -123,9 +119,6 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list   
-
-    
-
       
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
