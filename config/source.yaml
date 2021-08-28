@@ -47,9 +47,6 @@
     url: https://proxypool-guest997.herokuapp.com/clash/proxies?type=ss,vmess,trojan&speed=5
 - type: subscribe
   options:
-    url: https://free.mengbai.cf/clash/proxies?type=ss,vmess,trojan&speed=5
-- type: subscribe
-  options:
     url: https://www.233660.xyz/clash/proxies?type=ss,vmess,trojan&speed=5
 - type: subscribe
   options:
@@ -75,11 +72,11 @@
 #晓柒科技
 - type: subscribe
   options:
-    url: https://v2b.xiaoqi66.cf//api/v1/client/subscribe?token=67898b7fe772f200735edbd7972b6543
+    url: https://v2b.xiaoqi66.cf/api/v1/client/subscribe?token=965091e34d7d2bef7c2d8390013afffa
 #JACKUSR2089
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-7-28
+    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/2021-8-27
 #逍遥观世界   
 - type: subscribe
   options:
@@ -87,7 +84,7 @@
 #工具大师
 - type: subscribe
   options:
-    url: http://1.15.119.250:8888/down/2PGF5R1oAbpY
+    url: http://1.15.119.250:8888/down/FBWN94OtFuoS
 
 # 网页模糊抓取
 - type: webfuzz
