@@ -138,4 +138,8 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
+#穷哥    
+- type: clash
+  options:
+    url: https://www.jssryun.club/link/5dAgDUjiMceEHfIo?clash=1  
 
