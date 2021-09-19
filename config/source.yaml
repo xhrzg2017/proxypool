@@ -33,9 +33,6 @@
   options:
     url: https://cdn.jsdelivr.net/gh/MiDnight-coming/vmess@main/README.md   
 
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/xhrzg2017/xhrzg2017.github.io/master/tz
 
     
 #同行 
