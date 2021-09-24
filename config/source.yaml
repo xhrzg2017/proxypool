@@ -7,7 +7,7 @@
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan 
@@ -23,48 +23,9 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md    
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/Fox04117/dingyue/main/dingy.txt
-- type: subscribe
-  options:
-    url: https://cdn.jsdelivr.net/gh/MiDnight-coming/ss@main/README.md
-- type: subscribe
-  options:
-    url: https://cdn.jsdelivr.net/gh/MiDnight-coming/vmess@main/README.md   
-
 
     
-#同行 
-- type: subscribe
-  options:
-    url: https://free.kingfu.cf/clash/proxies?type=ss,vmess,trojan&speed=5
-- type: subscribe
-  options:
-    url: https://proxypool-guest997.herokuapp.com/clash/proxies?type=ss,vmess,trojan&speed=5
-- type: subscribe
-  options:
-    url: https://www.233660.xyz/clash/proxies?type=ss,vmess,trojan&speed=5
-- type: subscribe
-  options:
-    url: https://sspool.nl/clash/proxies?type=ss,vmess,trojan&speed=5
-- type: subscribe
-  options:
-    url: https://sspool.herokuapp.com/clash/proxies?type=ss,vmess,trojan&speed=5  
-    
-#无测速    
-- type: subscribe
-  options:
-    url: https://emby.luoml.eu.org/clash/proxies?type=ss,vmess,trojan
-- type: subscribe
-  options:
-    url: https://proxy.yugogo.xyz/clash/proxies?type=ss,vmess,trojan    
-- type: subscribe
-  options:
-    url: https://etproxypool.ga/clash/proxies?type=ss,vmess,trojan
-- type: subscribe
-  options:
-    url: https://etproxypool.cf/clash/proxies?type=ss,vmess,trojan
+
 
 #晓柒科技
 - type: subscribe
@@ -138,8 +99,24 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
-#穷哥    
+    
+#同行 
 - type: clash
   options:
-    url: https://www.jssryun.club/link/5dAgDUjiMceEHfIo?clash=1  
+    url: https://proxypool-guest997.herokuapp.com/clash/proxies?type=ss,vmess,trojan&speed=5
+
+#无测速    
+- type: clash
+  options:
+    url: https://emby.luoml.eu.org/clash/proxies?type=ss,vmess,trojan
+- type: clash
+  options:
+    url: https://proxy.yugogo.xyz/clash/proxies?type=ss,vmess,trojan    
+- type: clash
+  options:
+    url: https://etproxypool.ga/clash/proxies?type=ss,vmess,trojan
+- type: clash
+  options:
+    url: https://etproxypool.cf/clash/proxies?type=ss,vmess,trojan    
+    
 
