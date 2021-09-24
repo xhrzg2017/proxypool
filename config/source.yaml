@@ -69,11 +69,11 @@
 #晓柒科技
 - type: subscribe
   options:
-    url: https://v2b.xiaoqi66.cf/api/v1/client/subscribe?token=965091e34d7d2bef7c2d8390013afffa
+    url: https://v2b.xiaoqikeji.tk/api/v1/client/subscribe?token=bc95c5e7b88fce68464c67039bd1c6e6
 #JACKUSR2089
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/2021-8-27
+    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-9-22
 #逍遥观世界   
 - type: subscribe
   options:
@@ -104,7 +104,10 @@
     url: https://raw.githubusercontent.com/xhrzg2017/xhrzg2017.github.io/master/v2.md   
 - type: webfuzz
   options:
-    url: https://merlinblog.xyz/wiki/freess.html  
+    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/README.md
+- type: webfuzz
+  options:
+    url: https://merlinblog.xyz/wiki/freess.html      
     
 # 模糊抓取订阅链接
 - type: webfuzzsub
