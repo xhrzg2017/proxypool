@@ -103,20 +103,11 @@
 #同行 
 - type: clash
   options:
-    url: https://proxypool-guest997.herokuapp.com/clash/proxies?type=ss,vmess,trojan&speed=5
-
+    url: https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https://proxypool-guest997.herokuapp.com/clash/proxies?type=ss,vmess,trojan&speed=5&config=https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/universal/no-urltest.ini
+   
+    
 #无测速    
 - type: clash
   options:
-    url: https://emby.luoml.eu.org/clash/proxies?type=ss,vmess,trojan
-- type: clash
-  options:
-    url: https://proxy.yugogo.xyz/clash/proxies?type=ss,vmess,trojan    
-- type: clash
-  options:
-    url: https://etproxypool.ga/clash/proxies?type=ss,vmess,trojan
-- type: clash
-  options:
-    url: https://etproxypool.cf/clash/proxies?type=ss,vmess,trojan    
-    
+    url: https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https://emby.luoml.eu.org/clash/proxies?type=ss,vmess,trojan&config=https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/universal/no-urltest.ini      
 
