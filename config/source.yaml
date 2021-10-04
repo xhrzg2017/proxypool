@@ -23,10 +23,10 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md    
-
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
     
-
-
 #晓柒科技
 - type: subscribe
   options:
@@ -99,6 +99,9 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
     
 #同行 
 - type: clash
