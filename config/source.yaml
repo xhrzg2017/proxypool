@@ -42,7 +42,7 @@
 #工具大师
 - type: subscribe
   options:
-    url: http://1.15.119.250:8888/down/FBWN94OtFuoS
+    url: http://121.4.209.91:8888/down/b6OPLBLTdci9
 
 # 网页模糊抓取
 - type: webfuzz
