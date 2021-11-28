@@ -95,7 +95,7 @@
     url: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/clash.yml
+    url: https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/vmess.txt
 - type: clash
   options:
     url: https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
@@ -106,11 +106,5 @@
 #同行 
 - type: clash
   options:
-    url: https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https://proxypool-guest997.herokuapp.com/clash/proxies?type=ss,vmess,trojan&speed=5&config=https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/universal/no-urltest.ini
+    url: https://proxypool-guest997.herokuapp.com/clash/proxies?type=ss,vmess,trojan&speed=5
    
-    
-#无测速    
-- type: clash
-  options:
-    url: https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https://emby.luoml.eu.org/clash/proxies?type=ss,vmess,trojan&config=https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/universal/no-urltest.ini      
-
