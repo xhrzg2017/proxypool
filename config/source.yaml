@@ -27,22 +27,16 @@
   options:
     url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
     
-#晓柒科技
-- type: subscribe
-  options:
-    url: https://v2b.xiaoqikeji.tk/api/v1/client/subscribe?token=bc95c5e7b88fce68464c67039bd1c6e6
+
 #JACKUSR2089
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-9-22
+    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-11-24
 #逍遥观世界   
 - type: subscribe
   options:
     url: https://yun.xiaoyao01.com/dingyue/1fenxiang.txt
-#工具大师
-- type: subscribe
-  options:
-    url: http://121.4.209.91:8888/down/b6OPLBLTdci9
+
 
 # 网页模糊抓取
 - type: webfuzz
