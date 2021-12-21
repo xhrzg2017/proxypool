@@ -26,12 +26,28 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
-    
-
+- type: subscribe
+  options:
+    url: hhttps://qiaomenzhuanfx.netlify.app
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/online
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
+- type: subscribe
+  options:
+    url: https://youlianboshi.netlify.com
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
+- type: subscribe
+  options:
+    url: http://ss.pythonic.life/full/subscribe
 #JACKUSR2089
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-11-24
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md
 #逍遥观世界   
 - type: subscribe
   options:
