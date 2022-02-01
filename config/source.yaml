@@ -28,7 +28,7 @@
     url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
 - type: subscribe
   options:
-    url: hhttps://qiaomenzhuanfx.netlify.app
+    url: https://qiaomenzhuanfx.netlify.app
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/online
@@ -48,11 +48,6 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md
-#逍遥观世界   
-- type: subscribe
-  options:
-    url: https://yun.xiaoyao01.com/dingyue/1fenxiang.txt
-
 
 # 网页模糊抓取
 - type: webfuzz
