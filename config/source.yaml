@@ -49,6 +49,12 @@
   options:
     url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md
 
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: KinhDownLoad
+    num: 200
+    
 # 网页模糊抓取
 - type: webfuzz
   options:
