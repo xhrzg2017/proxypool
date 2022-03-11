@@ -16,13 +16,7 @@
     url: https://raw.githubusercontent.com/freefq/free/master/ssr
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/freefq/free/master/v2    
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md    
+    url: https://raw.githubusercontent.com/freefq/free/master/v2     
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
@@ -44,10 +38,10 @@
 - type: subscribe
   options:
     url: http://ss.pythonic.life/full/subscribe
-#JACKUSR2089
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md
+- type: webfuzz
+  options:    
+    url: http://feeds.feedburner.com/mattkaydiary/pZjG    
+
 
 # tg频道抓取
 - type: tgchannel
@@ -61,22 +55,10 @@
     url: https://raw.githubusercontent.com/freefq/free/master/README.md
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/hugetiny/awesome-vpn/master/READMECN.md
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/README.md
-- type: webfuzz
-  options:
     url: https://raw.githubusercontent.com/iwxf/free-v2ray/master/README.md
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/freefq/free/master/README.md
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/xhrzg2017/xhrzg2017.github.io/master/v2.md   
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/README.md
 - type: webfuzz
   options:
     url: https://merlinblog.xyz/wiki/freess.html      
@@ -97,24 +79,7 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/clash.yaml
-- type: clash
-  options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
-- type: clash
-  options:
     url: https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/vmess.txt
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
-    
-#同行 
-- type: clash
-  options:
-    url: https://proxypool-guest997.herokuapp.com/clash/proxies?type=ss,vmess,trojan&speed=5
