@@ -10,9 +10,6 @@
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan 
-- type: subscribe
-  options:
     url: https://raw.githubusercontent.com/freefq/free/master/v2     
 - type: subscribe
   options:
