@@ -13,28 +13,7 @@
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan 
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/freefq/free/master/ssr
-- type: subscribe
-  options:
     url: https://raw.githubusercontent.com/freefq/free/master/v2     
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
-- type: subscribe
-  options:
-    url: https://qiaomenzhuanfx.netlify.app
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/online
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
-- type: subscribe
-  options:
-    url: https://youlianboshi.netlify.com
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
 - type: subscribe
   options:
     url: http://ss.pythonic.life/full/subscribe
@@ -55,21 +34,15 @@
     url: https://raw.githubusercontent.com/freefq/free/master/README.md
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/iwxf/free-v2ray/master/README.md
-- type: webfuzz
-  options:
     url: https://raw.githubusercontent.com/freefq/free/master/README.md
-- type: webfuzz
-  options:
-    url: https://merlinblog.xyz/wiki/freess.html      
-    
+
 # 模糊抓取订阅链接
-- type: webfuzzsub
-  options:
-    url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etsub.list
-- type: webfuzzsub
-  options:
-    url: https://raw.githubusercontent.com/du5/free/master/sub.list   
+#- type: webfuzzsub
+  #options:
+    #url: https://raw.githubusercontent.com/shoujiyanxishe/atu/main/etsub.list
+#- type: webfuzzsub
+ #options:
+    #url: https://raw.githubusercontent.com/du5/free/master/sub.list   
       
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
